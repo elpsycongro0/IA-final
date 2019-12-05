@@ -3,8 +3,11 @@
 Dependencias:
 
 numpy
+
 Pillow  
+
 scipy==1.1
+
 tensorflow-gpu >= 1.0,<2.0  
 
 Uso:
